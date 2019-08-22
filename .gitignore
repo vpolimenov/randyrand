@@ -1,0 +1,4 @@
+.DS_Store
+randyrand.egg-info/
+*/__pychache__
+*.pyc
