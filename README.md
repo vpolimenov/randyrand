@@ -66,3 +66,5 @@ rand5.summarize()
 # [3.10469812 5.08752916 4.31424743 5.7948281  6.07260011]
 # 'min: 3.1046981181658846, max: 6.072600107174173, mean: 4.874780581834363, std: 1.074607868448617'
 ```
+
+Additional examples you can see in the notebooks directory - `random_nums_from_dist` notebook in particular.
